@@ -1,0 +1,36 @@
+body {
+    /* font-family: "Instrument Sans", sans-serif; */
+    /* font-family: "Poppins", sans-serif; */
+}
+
+
+@media (max-width: 767px) {
+
+    .carrusel-izq,
+    .carrusel-der {
+        /* margin-top: 0!important; 
+       margin-top: 5rem; */
+        background-color: transparent !important;
+    }
+}
+
+@media (max-width: 1199px) {
+
+    .carrusel-izq,
+    .carrusel-der {
+        margin-top: 22rem;
+    }
+}
+
+@media (min-width: 1200px) {
+
+    .carrusel-izq,
+    .carrusel-der {
+        margin-top: 24rem;
+    }
+}
+
+.accordion {
+    --bs-accordion-active-bg: var(--bs-info-bg-subtle);
+    --bs-accordion-btn-focus-box-shadow: 0;
+}
