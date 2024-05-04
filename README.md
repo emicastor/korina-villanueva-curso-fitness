@@ -1,6 +1,6 @@
 # Korina Villanueva - Entrenadora personal
 ### Sitio web para entrenador(a) de fitness 🏋️‍♀️
-#### [Ver sitio web]() ↗️
+#### [Ver sitio web](https://entrenaencasaconkv.netlify.app/) ↗️
 
 - Sitio web responsivo utilizando HTML, CSS, Bootstrap 5 y JavaScript.
 - Compatible con todos los dispositivos móviles y con una interfaz de usuario bonita y agradable.
@@ -14,7 +14,7 @@
 - La presenté como entrenadora personal/de fitness para conseguir que más personas se interesen en adquirir su producto.
 - Diseñé esta web con un diseño limpio y minimalista para que coincida con la atmósfera y las vibraciones del curso en línea.
 
-Más detalles del proyecto [acá]()  
+Más detalles del proyecto [acá](https://emicastor.com.ar/proyectos/korina-Villanueva-7)  
 
 Visitá mi sitio web para ver más sitios como este ➡️ [emicastor.com.ar](https://emicastor.com.ar)
 
